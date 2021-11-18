@@ -1,6 +1,9 @@
 # RoR
 This repo provides the code for reproducing the experiments in Findings-EMNLP 2021 paper: [RoR: Read-over-Read for Long Document Machine Reading Comprehension](https://aclanthology.org/2021.findings-emnlp.160.pdf). This code is adapted from the repos of  [longformer](https://github.com/allenai/longformer).
 
+<p align="center"><img src="/RoR.png" width=700></p>
+<p align="center"><i>Figure : Illustrations of RoR framework</i></p>
+
 
 ## Environment
 transformers==2.11.0 <br>
